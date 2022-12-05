@@ -1,0 +1,3 @@
+Openstreetmap.org used to generate .osm file
+osm2world (http://osm2world.org/download/) Java app used to convert .osm to .obj
+Blender used to cleanup .obj file and export to .fbx
